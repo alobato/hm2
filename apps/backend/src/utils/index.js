@@ -1,4 +1,3 @@
-export * from './csv.js'
 export * from './text.js'
 export * from './number.js'
 export * from './zip.js'
